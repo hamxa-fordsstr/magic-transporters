@@ -167,6 +167,3 @@ The project uses **Jest** and **Supertest** for end-to-end testing. You can run 
 npm test
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
